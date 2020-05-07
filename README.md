@@ -6,6 +6,6 @@ Imagem Docker - Desafio 01 da Maratona Full Cycle 2.0
 
 Para iniciar o servidor
     
-    docker run ronei/maratona-fullcycle-desafio1
+    docker run roneigualberto/maratona-fullcycle-desafio1
 
    
